@@ -14,3 +14,5 @@ namespace ConsoleProject
         }
     }
 }
+
+Couldn't install Microsoft.VirsualCpp.Redist.14
